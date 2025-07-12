@@ -1,1 +1,1 @@
-This file contains my daily reflection for semester-1. 
+This folder contains my daily reflection for semester-1. 
